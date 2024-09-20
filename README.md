@@ -32,7 +32,6 @@ It retrieves the base64-encoded image string stored in session storage and displ
 If no image is available, the app redirects the user back to the capture page.
 
 ## 5. File Structure
-
 /project-root
 │
 ├── capture.html        # HTML file for image capture
